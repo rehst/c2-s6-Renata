@@ -1,0 +1,1 @@
+console.log('https://script.google.com/macros/s/AKfycbzYzWct9KbvrvOSEL3V1nJVk3rzFoFRyUcsDqky7vaRjVBZ0cfy6u6hrvqwk0AUqNA/exec')
